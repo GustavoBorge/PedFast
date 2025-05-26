@@ -1,6 +1,0 @@
-@Pedfast_HostAddress = http://localhost:5045
-
-GET {{Pedfast_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
